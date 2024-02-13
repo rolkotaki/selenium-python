@@ -1,5 +1,5 @@
-# selenium-python
-Basic Selenium framework with pytest and unittest to write automated tests for webpages easily and quickly
+# Selenium with Python
+Basic Selenium framework with pytest and unittest to write automated tests for webpages easily and quickly.
 
 ## Description
 
